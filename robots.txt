@@ -1,0 +1,12 @@
+﻿User-agent: * Disallow: /cgi-bin/
+Disallow: 
+Disallow: /css
+Disallow: /css/img
+Disallow: /fonts
+Disallow: /fonts/eot
+Disallow: /fonts/ttf
+Disallow: /fonts/woff
+Disallow: /fonts/woff2
+Disallow: /img
+
+Sitemap: http://mstfnsri.ir/sitemap.xml
